@@ -71,8 +71,8 @@ height: 200px;
 	width: 200px;
 	height: 200px;
 	border-radius: 1000px;
-	position: relative;
-	left: 50px;
+	position: absolute;
+	left: 200px;
 }
 
 .p
