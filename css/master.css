@@ -75,7 +75,9 @@ height: 200px;
 	left: 130px;
         bottom: 20px;
 }
-
+.project{
+	padding-bottom:20px;
+}
 .p
 { width: 30%;
 	margin:auto;
